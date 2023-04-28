@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <article>
+			<nav aria-label="breadcrumb">
+				<ul>
+				  <li>Home</li>
+                  <li><a href="{{ url_for('index') }}">Service</a></li>
+				  <li><a href="{{ url_for('project') }}">Project ideas</a></li>
+                  <li><a href="{{ url_for('about') }}">About us</a></li>
+				  
+				</ul>
+			</nav>
+		</article>
+        <article>
+            
+            <h1>Introducing The Image Caption</h1>
+            <img src="{{file_path}}" height="240",width="240">
+            <h3>Image Captioning 은 NIC(Neural Image Captioning)이라고도 하며, Image 파일을 문장을 생성하는 서비스 입니다.</h3>
+            <h3>해당 모델은 Soft attention 을 활용하여 CNN 엔코더 + LSTM  디코더로 이루어져 있습니다.</h3>
+            <h3>Service 탭에서 이미지 파일을 업로드하며 생성된 모델을 확인해보세요.</h3>
+            <h4>**주의** 사진이 서버에 업로드 되니 개인적인 사진을 올릴때 주의해 주세요 </h4>
+
+        </article>
+    </div>
+</body>
+</html>
