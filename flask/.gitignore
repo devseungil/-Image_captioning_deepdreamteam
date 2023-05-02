@@ -8,5 +8,6 @@ static/audios/*
 !static/audios/.gitkeep
 static/images/*
 !static/images/.gitkeep
-requirement.txt
+etc
+
 
