@@ -9,5 +9,6 @@ static/audios/*
 static/images/*
 !static/images/.gitkeep
 etc
-__pycache__/*
+*.pyc
+
 
