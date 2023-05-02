@@ -77,7 +77,7 @@ def define_our_model(total_words = 9000, max_length = 26):
 # load_weights
 
 def load_model(test_model):
-    test_model.load_weights("_content_drive_MyDrive_3조_Models_xception_t_1682372355+FN+4_caption_model.h5")
+    test_model.load_weights("model\_content_drive_MyDrive_3조_Models_xception_t_1682372355+FN+4_caption_model.h5")
 
     print("load model success")
     # print(test_model.summary())

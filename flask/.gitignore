@@ -1,2 +1,12 @@
 venv
-_content_drive_MyDrive_3조_Models_xception_t_1682372355+FN+4_caption_model.h5
+model/*
+!model/.gitkeep
+token/*
+!token/.gitkeep
+text-to-speech-key.json
+static/audios/*
+!static/audios/.gitkeep
+static/images/*
+!static/images/.gitkeep
+requirement.txt
+

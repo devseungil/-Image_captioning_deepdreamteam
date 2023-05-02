@@ -122,7 +122,7 @@ def define_CNN_Encoder():
 def extract_caption(image_filepath,model,CNN_model):
     photo = extract_features(image_filepath, CNN_model)
     # print(photo.shape)
-    tokenizer = load_tokenizer("my_tokenizer_230422.pkl")
+    tokenizer = load_tokenizer("token\my_tokenizer_230422.pkl")
     caption, _ =  generate_desc(model, tokenizer,photo, max_length=26)
     print(caption) # 
     return caption
