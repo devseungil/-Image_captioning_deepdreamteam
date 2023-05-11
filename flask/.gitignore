@@ -1,15 +1,13 @@
 venv
-model/*
-!model/.gitkeep
-token/*
-!token/.gitkeep
-text-to-speech-key.json
+
+
+
 static/audios/*
 !static/audios/.gitkeep
 static/images/*
 !static/images/.gitkeep
 etc
 *.pyc
-*.json
+
 
 
