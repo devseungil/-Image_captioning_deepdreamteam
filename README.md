@@ -30,23 +30,27 @@ Home : 이미지 캡션과 모델구현방법에 대한 설명
 
 ------------------------------------------------
 
-Service : 실제 이미지 입력창
+Service : 실제 이미지 업로드창
 
-![image](https://github.com/devseungil/Image-caption-project/assets/119550025/be07050d-c179-47aa-8e00-f272869a1c20)
+- 업로드전
 
--------------------------------
+![KakaoTalk_20230511_223804112](https://github.com/devseungil/Image-caption-project/assets/119550025/98f20983-3c5e-46b5-96fe-6c5afcb2ad83)
 
+- 업로드시
 
+![KakaoTalk_20230511_225729676](https://github.com/devseungil/Image-caption-project/assets/119550025/adca24ea-ede3-4b80-93af-ca26da58a10c)
+
+-----------------------------------
 
 Project ideas : 추후 구현할 UI와 기능목록
 
-![image](https://github.com/devseungil/Image-caption-project/assets/119550025/91ba7331-271a-4272-b01f-e842ee793da6)
+![KakaoTalk_20230511_223900091](https://github.com/devseungil/Image-caption-project/assets/119550025/bdadcce6-e11f-4f54-9e4d-2a7355ee9f3a)
 
 ------------------------------------------
 
 About us : 프로젝트 팀과 팀원들의 담당파트 및 정보
 
-![image](https://github.com/devseungil/Image-caption-project/assets/119550025/7ccf9850-2eb5-4a84-9127-9ef6e726fd06)
+![KakaoTalk_20230511_225456709](https://github.com/devseungil/Image-caption-project/assets/119550025/4aeb2c4b-1f3d-40ac-9772-bdfdcf72dbb4)
 
 --------------------------
 
