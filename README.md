@@ -26,11 +26,11 @@
 
 ------------------
 
-Home : 이미지 캡션과 모델구현방법에 대한 설명
+### Home : 이미지 캡션과 모델구현방법에 대한 설명
 
 ------------------------------------------------
 
-Service : 실제 이미지 업로드창
+### Service : 실제 이미지 업로드창
 
 - 업로드전
 
@@ -42,13 +42,13 @@ Service : 실제 이미지 업로드창
 
 -----------------------------------
 
-Project ideas : 추후 구현할 UI와 기능목록
+### Project ideas : 추후 구현할 UI와 기능목록
 
 ![KakaoTalk_20230511_223900091](https://github.com/devseungil/Image-caption-project/assets/119550025/bdadcce6-e11f-4f54-9e4d-2a7355ee9f3a)
 
 ------------------------------------------
 
-About us : 프로젝트 팀과 팀원들의 담당파트 및 정보
+### About us : 프로젝트 팀과 팀원들의 담당파트 및 정보
 
 ![KakaoTalk_20230511_225456709](https://github.com/devseungil/Image-caption-project/assets/119550025/4aeb2c4b-1f3d-40ac-9772-bdfdcf72dbb4)
 
